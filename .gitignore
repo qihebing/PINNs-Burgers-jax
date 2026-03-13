@@ -7,4 +7,8 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Weights & Biases
+<<<<<<< HEAD
 wandb/
+=======
+wandb/
+>>>>>>> b5503a1 (W&B plots and gitignore change)
